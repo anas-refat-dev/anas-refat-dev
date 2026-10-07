@@ -7,4 +7,4 @@ apps for real users and real workflows, from the database to the screen.
 an Arabic-first app that runs an online Qur'an academy's subscriptions, payment review and
 Telegram renewal notices. In production since September 2026.
 
-📫 anas.refat.dev@gmail.com · [LinkedIn](www.linkedin.com/in/anas-refat-dev)
+📫 anas.refat.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/anas-refat-dev)
